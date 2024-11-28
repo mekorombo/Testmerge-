@@ -20,7 +20,19 @@ namespace Capital.Controllers
 
         public IActionResult About()
         {
-            return View(); // Maps to About.cshtml
+            hassanee
+            hassanee
+            hassanee
+            hassanee
+            hassanee
+
+            hassanee
+            hassanee
+            hassanee
+            hassanee
+            hassanee
+
+            
         }
 
         public IActionResult Histoire()
