@@ -14,7 +14,7 @@ namespace Capital.Controllers
         }
 
         public IActionResult Index()
-        {
+        {   var list = ToList();
             return View(); // Maps to Index.cshtml
         }
 
